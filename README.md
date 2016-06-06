@@ -1,2 +1,2 @@
 # short-stories
-it contains short intresting stories
+it is a short stories app 
