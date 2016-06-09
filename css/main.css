@@ -1,20 +1,13 @@
-body{
- background-color:blue;
-
+body {
+    background-color: linen;
 }
-
-h1{
-  font-size: 875Spx;
-font-family: 'Roboto Slab', serif;
-    text-align:centre;
-
-
+h1 {
+    font-size: 855Spx;
+    font-family: 'Montserrat', sans-serif;
+    text-align: centre;
 }
-p{color: darkblue;
-   font-family: 'Roboto Slab', serif;
-    font-size:870%
-
-
-
-
+p {
+    color: darkblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80%
 }
